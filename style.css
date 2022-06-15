@@ -1,0 +1,57 @@
+navbar{
+    background-color: #bde0fe;
+}
+
+#banner {
+    background: url("img/fondo.png") fixed;
+    padding: 8%;
+    background-size:cover;
+ }
+  
+  .focus {
+    padding: 20px;
+    color: rgba(255, 255, 255, 0.596);
+    display: inline-block;
+    border-radius: 10px;
+  }
+h1,h2{
+    text-align: center;
+    margin-bottom: 35%;
+    
+}
+.text-center-fw{
+    text-align: center;
+}
+
+
+#foto{
+    border-radius:45%;
+    margin-top: 15%;
+    justify-content: center;
+    padding: 15px, 0, 15px, 0;
+}
+
+#sobremi{
+    margin-top: 15%;
+}
+p{
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: blanchedalmond;
+    border: 15px;
+    color: black;
+}
+#proyectos{
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+.card:hover{
+    background-color: gold;
+}
+#contacto{
+    width: 45px;
+}
+.flex-container {
+    justify-content: flex-end;
+  
+    }
